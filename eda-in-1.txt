@@ -1,0 +1,1 @@
+The average type of the participants in the dataset is 0.5306639683916353 years.
